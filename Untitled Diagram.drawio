@@ -1,4 +1,4 @@
-<mxfile modified="2022-11-19T19:44:01.884Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="1DQ0iFFrZ9mI-9IHizhH" version="20.5.3" type="github">
+<mxfile modified="2022-11-19T19:55:12.140Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="xUQYWbIiacOXdV1VjTmC" version="20.5.3" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1240" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -115,6 +115,18 @@
               <mxPoint x="700" y="731" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="6956B6hDvgmSpLaD35DB-97" value="Restrict traffic to ec2 security group from LB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="200" y="610" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6956B6hDvgmSpLaD35DB-98" value="Restrict traffic to RDS security group from the EC2 security group" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="840" y="130" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6956B6hDvgmSpLaD35DB-99" value="Restrict traffic to Elastic Cache security group from the EC2 security group" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="693.75" y="790" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6956B6hDvgmSpLaD35DB-105" value="open Http/Https&amp;nbsp; to 0.0.0.0/0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="40" y="430" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

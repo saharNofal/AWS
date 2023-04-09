@@ -1,4 +1,4 @@
-<mxfile modified="2023-04-09T00:22:42.526Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="VwiDPS8hfCdbghUFPqQH" version="21.1.2" type="github">
+<mxfile modified="2023-04-09T00:29:23.129Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="aHwcdyCZl7zW8o09qNb_" version="21.1.2" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1120" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -93,6 +93,12 @@
         </mxCell>
         <mxCell id="0kuYp-21WhlVyF6QQ9tV-14" value="Dynamodb" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="622" y="305" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0kuYp-21WhlVyF6QQ9tV-15" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.step_functions;fillColor=#D9A741;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="300" width="76.5" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="0kuYp-21WhlVyF6QQ9tV-16" value="Step Function" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="308.25" y="390.5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
